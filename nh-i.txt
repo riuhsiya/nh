@@ -1,0 +1,8 @@
+[●] [SSH]  ⩺ m0cv2.znf.me:80@trial14X6:6928
+[●] [Payload] ⩺ CONNECT http://202.152.162.239/lpisat/ramadhan/ HTTP/1.1[crlf]Host: http://c.whatsapp.com/[crlf]Connection: Keep-Alive[crlf]Update: @archive_all_bug[crlf]Upgrade: websocket[crlf][crlf]
+[●] [EXP Date] ⩺ lifeTime
+[●] [OpenVPN-Account] ⩺ :
+[●] [HC Version] ⩺ 645
+
+⪻⪻•====𓊈 BdOriginal_01 𓊉====•⪼⪼
+
